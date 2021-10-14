@@ -1,2 +1,2 @@
-# https://thom39.github.io
+# https://thomdemo.github.io
 just a demo
