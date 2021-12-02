@@ -1,0 +1,56 @@
+body {
+  background-image: linear-gradient(purple, aqua);
+}
+.foodmenu {
+  border-width: 6px;
+  border-style: dashed;
+  border-image: linear-gradient(45deg, purple, aqua) 1;
+  width: 30%;
+}
+.foods {
+  text-decoration: none;
+  color: black;
+}
+ul {
+  list-style: circle;
+  line-height: 150%;
+  font-style: italic;
+}
+html {
+  font-family: cursive;
+}
+textarea {
+  width: 100%;
+}
+.returnbox {
+  margin-top: 400px;
+  position: absolute;
+  margin-left: 40%;
+}
+.return {
+  text-decoration: none;
+  margin-top: 15%;
+  border-radius: 10px;
+  background-color: teal;
+  padding: 10px;
+}
+.foodbox {
+  width: 100%;
+  height: 900px;
+  margin-top: 5%;
+}
+.imgsize {
+  width: 30%;
+  float: left;
+  margin-left: 3%;
+  border-radius: 5%;
+}
+.head {
+  text-align: center;
+  font-style: italic;
+}
+.thank {
+  margin-top: 20%;
+  margin-left: 38%;
+  height: 900px;
+}
