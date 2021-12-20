@@ -1,0 +1,98 @@
+.hedtxt {
+  text-align: center;
+}
+.box {
+  text-align: center;
+  width: 50%;
+  margin-left: 24%;
+  background-color: aqua;
+  border-radius: 20px;
+}
+.box2 {
+  text-align: center;
+  width: 50%;
+  margin-left: 24%;
+  background-color: aqua;
+  border-radius: 20px;
+}
+.box3 {
+  text-align: center;
+  width: 50%;
+  margin-left: 24%;
+  background-color: aqua;
+  border-radius: 20px;
+}
+ul {
+  text-align: center;
+  margin: auto;
+  display: table;
+  margin-left: 45%;
+}
+.btnn {
+  padding: 5px;
+  border-radius: 20px;
+  background-color: pink;
+  font-size: 100%;
+}
+.btnbox {
+  margin-left: 80%;
+  margin-bottom: 7%;
+  margin-top: -6%;
+  width: 10%;
+}
+.scorebox {
+  margin-left: 1%;
+  margin-top: 3%;
+  width: 20%;
+  background-color: pink;
+  border-radius: 20px;
+  border: 3px solid aqua;
+}
+.gamebox {
+  width: 30%;
+  margin-left: 35%;
+  height: 60%;
+  background-color: #3beb17;
+  border-radius: 20px;
+}
+.gamebox2 {
+  width: 30%;
+  margin-left: 35%;
+  padding-top: 5%;
+  height: 70%;
+  background-color: teal;
+  border-radius: 20px;
+  border: 14px solid teal;
+}
+.gamebox3 {
+  width: 30%;
+  margin-left: 35%;
+  height: 80%;
+  background-color: yellow;
+  border-radius: 20px;
+  margin-top: 5%;
+}
+.guess {
+  width: 90%;
+  padding-top: 2%;
+}
+.check {
+  margin-top: 5%;
+  border-radius: 20px;
+}
+.rltbox {
+  margin-top: 3%;
+  padding-bottom: 3%;
+  border-radius: 20px;
+}
+body {
+  background-color: lightblue;
+}
+.enttxt {
+  background-color: white;
+  width: 80%;
+  border-radius: 20px;
+}
+.hidden {
+  display: none;
+}
