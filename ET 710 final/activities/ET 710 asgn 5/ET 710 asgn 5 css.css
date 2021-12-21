@@ -1,0 +1,107 @@
+body {
+  background-color: white;
+}
+/*first box*/
+.box1 {
+  border: 2px solid red;
+  text-align: center;
+  width: 30%;
+  height: 90%;
+  float: left;
+  margin-left: 17%;
+}
+img {
+  width: 90%;
+}
+/*second box*/
+.box2 {
+  border: 2px solid red;
+  text-align: center;
+  width: 30%;
+  height: 90%;
+  float: left;
+  margin-left: 5%;
+  position: relative;
+}
+/*text for box 1 and 2*/
+.text1 {
+  font-size: 250%;
+}
+/*style for link in both box*/
+.linktxt {
+  font-size: 250%;
+  text-decoration: none;
+  background-image: linear-gradient(orange, pink);
+  border-radius: 50px;
+  color: black;
+  padding: 5%;
+}
+/*div for box 1 & 2*/
+.bigbox {
+  padding-top: 2%;
+}
+/*sub box for 1 & 2*/
+.subox {
+  padding-bottom: 10%;
+}
+.apple {
+  width: 40%;
+  height: 20%;
+  margin-top: 5%;
+  margin-left: 30%;
+}
+/*for first hidden box*/
+.window {
+  background-color: orange;
+  margin-top: 50%;
+  width: 60%;
+  height: 600px;
+  border: 2px solid red;
+  opacity: 0;
+  position: absolute;
+}
+.window:target {
+  opacity: 1;
+  margin-top: 2%;
+  margin-left: 20%;
+  pointer-events: auto;
+}
+.head1 {
+  background-color: pink;
+  height: 15%;
+  font-size: 100%;
+  margin-top: -2.5%;
+}
+.subox2 {
+  background-color: pink;
+  width: 80%;
+  margin-left: 7%;
+  height: 10%;
+}
+.text2 {
+  font-size: 140%;
+}
+/*for X*/
+.linktxt2 {
+  margin-top: -37%;
+  margin-left: 98%;
+  text-decoration: none;
+  position: absolute;
+  font-size: 150%;
+}
+/*for second hidden box*/
+.window2 {
+  background-color: lightblue;
+  margin-top: 50%;
+  width: 60%;
+  height: 600px;
+  border: 2px solid red;
+  opacity: 0;
+  position: absolute;
+}
+.window2:target {
+  opacity: 1;
+  margin-top: 2%;
+  margin-left: 20%;
+  pointer-events: auto;
+}

@@ -1,0 +1,67 @@
+.introbox {
+  width: 100%;
+  height: 500px;
+  margin-top: 2%;
+}
+.imgbox {
+  width: 30%;
+  height: 100%;
+  float: left;
+  margin-left: 3%;
+}
+.parabox {
+  width: 30%;
+  height: 100%;
+  float: left;
+  margin-left: 2%;
+}
+.img1 {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+.nav {
+  font-size: 200%;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  align-items: center;
+  }
+.nav a {
+  color: yellow;
+  text-decoration: none;
+  font-family: ariel;
+  padding: 10px 12px;
+  }
+.nav a:hover {
+  background-color: yellow;
+  color: black;
+  border-radius: 40px;
+}
+.linkspace {
+  margin-left: 35%;
+}
+.tcolor {
+  color: yellow;
+  font-family: ariel;
+  font-style: italic;
+}
+.bcolor {
+  background-color: black;
+}
+.linkspace2 {
+  margin-left: 3%;
+}
+.linksz {
+  width: 5%;
+}
+.linksz2 {
+  width: 2.5%;
+}
+.contact {
+  color: yellow;
+  font-family: ariel;
+  font-style: italic;
+}
+.cardspace {
+  margin-left: 10%;
+}
